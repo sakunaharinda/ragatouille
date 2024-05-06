@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 data/vectorstore
 # C extensions
+.DS_Store
 *.so
 secrets
 # Distribution / packaging
