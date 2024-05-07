@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-data/vectorstore
+data/vectorstores
 # C extensions
 .DS_Store
 *.so
