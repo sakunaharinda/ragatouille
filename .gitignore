@@ -5,6 +5,7 @@ __pycache__/
 data/vectorstores
 data/vectorstore*
 # C extensions
+ragatouille_book
 .DS_Store
 *.so
 secrets
